@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Seonfang Blog</title>
+  
+  <subtitle>度量人生道路</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-09-09T06:59:12.516Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>seonfang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ZheTian</title>
+    <link href="http://yoursite.com/2018/09/09/first-blog/"/>
+    <id>http://yoursite.com/2018/09/09/first-blog/</id>
+    <published>2018-09-09T06:25:29.000Z</published>
+    <updated>2018-09-09T06:59:12.516Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>冰冷与黑暗并存的宇宙深处，九具庞大的龙尸拉着一口青铜古棺，亘古长存。</li><li>这是太空探测器在枯寂的宇宙中捕捉到的一幅极其震撼的画面。 </li><li>九龙拉棺，究竟是回到了上古，还是来到了星空的彼岸？<br>　　一个浩大的仙侠世界，光怪陆离，神秘无尽。热血似火山沸腾，激情若瀚海汹涌，欲望如深渊无止境……<br> <strong>登天路，踏歌行，弹指遮天。</strong></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;冰冷与黑暗并存的宇宙深处，九具庞大的龙尸拉着一口青铜古棺，亘古长存。&lt;/li&gt;
+&lt;li&gt;这是太空探测器在枯寂的宇宙中捕捉到的一幅极其震撼的画面。 &lt;/li&gt;
+&lt;li&gt;九龙拉棺，究竟是回到了上古，还是来到了星空的彼岸？&lt;br&gt;　　一个浩大的仙侠世界，光怪陆离，神秘
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hi World</title>
+    <link href="http://yoursite.com/2018/09/09/hello-world/"/>
+    <id>http://yoursite.com/2018/09/09/hello-world/</id>
+    <published>2018-09-09T04:06:16.965Z</published>
+    <updated>2018-09-09T06:27:43.158Z</updated>
+    
+    <content type="html"><![CDATA[<p> I want to go out and see the wonderful world outside …</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt; I want to go out and see the wonderful world outside …&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick S
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
